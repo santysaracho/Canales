@@ -25,7 +25,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:0,CNN BRASIL
 #EXTGRP:unsorted
-https://server100.online/cnn/video.m3u8?token=c3a6c01e655ea3032888c08af3e755814064dccd-5fbb04cebd9761f68f60c9544f437246-1671968935-1671965335&amp;remote=5.225.130.223
+https://live.embedflix.net/p2p/cnnbr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAxMTowNDo0NiBQTSZoYXNoX3ZhbHVlPUFyYkpkRGhseXhYTGxCRS81QkVjZUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:0,UNICANAL
 #EXTGRP:unsorted
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
