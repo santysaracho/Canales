@@ -38,3 +38,6 @@ https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 #EXTINF:0,SNT
 #EXTGRP:unsorted
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
+#EXTINF:0,ESPN BRASIL
+#EXTGRP:unsorted
+https://server100.online/espn/video.m3u8?token=bea256f9b6f57bdadd09e34bb16326508df37370-c87bb8d38e617a45b3322e33829e122f-1672072367-1672068767&remote=5.225.130.223
