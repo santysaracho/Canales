@@ -1,11 +1,40 @@
 #EXTM3U
-
-
-#EXTINF:-1 ,TELEFUTURO
-
-
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=08e40c9625b77ab8a8d9df1ce96d89b7e4a189fa8be8854041ac5ae80d01283d&exp=1671961842
-
-#EXTINF:-1 ,SNT
-
+#EXTINF:0,Globo
+#EXTGRP:unsorted
+https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37b9289faa782-c489522f5378f3e6196cae86e9786755-1671971358-1671967758&amp;remote=5.225.130.223
+#EXTINF:0,Trece
+#EXTGRP:unsorted
+https://streaming.trece.com.py/live/trece.m3u8
+#EXTINF:0,TELEFUTURO
+#EXTGRP:unsorted
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=941969795544810e637230c3225a2b4e48fec85447ff49bb2e387f410e0fb1eb&exp=1672063412
+#EXTINF:0,ABC
+#EXTGRP:unsorted
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:0,Trece
+#EXTGRP:unsorted
+https://streaming.trece.com.py/live/trece.m3u8
+#EXTINF:0,SBT
+#EXTGRP:unsorted
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0,BAND
+#EXTGRP:unsorted
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:0,BAND
+#EXTGRP:unsorted
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:0,CNN BRASIL
+#EXTGRP:unsorted
+https://server100.online/cnn/video.m3u8?token=c3a6c01e655ea3032888c08af3e755814064dccd-5fbb04cebd9761f68f60c9544f437246-1671968935-1671965335&amp;remote=5.225.130.223
+#EXTINF:0,UNICANAL
+#EXTGRP:unsorted
+https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
+#EXTINF:0,Ñandutí Tv
+#EXTGRP:unsorted
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+#EXTINF:0,C9N
+#EXTGRP:unsorted
+https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
+#EXTINF:0,SNT
+#EXTGRP:unsorted
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
