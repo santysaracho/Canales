@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,TELEFUTURO
+
+
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=08e40c9625b77ab8a8d9df1ce96d89b7e4a189fa8be8854041ac5ae80d01283d&exp=1671961842
+
+#EXTINF:-1 ,SNT
+
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
