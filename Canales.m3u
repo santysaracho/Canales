@@ -7,7 +7,7 @@ https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0,TELEFUTURO
 #EXTGRP:unsorted
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=f8a7c2bc8bae22003dc17b284c6d12b5ddb0aa3ba537c01849a0f632c37ab2a9&exp=1672178902
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=93be55d8474440ac06d3efd7b845b2e5eafd893155c0c5c4d23ebf5f155cc936&exp=1672265337
 #EXTINF:0,ABC
 #EXTGRP:unsorted
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
