@@ -47,3 +47,6 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 #EXTINF:0,La Liga 2
 #EXTGRP:unsorted
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SvCzJWcXOGJv.m3u8
+#EXTINF:0,Bein Ñ
+#EXTGRP:unsorted
+https://fb8g4873ww59n3t2.cdnexpress23.net:8443/hls/t7w70x7v57.m3u8?s=iWSsMh3QbeX1D_s_Qg1gvw&e=1672526509
