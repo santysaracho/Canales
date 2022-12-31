@@ -44,3 +44,6 @@ https://server100.online/star-plus/video.m3u8?token=cd858e0b63a8e574a90549315b60
 #EXTINF:0,La Liga
 #EXTGRP:unsorted
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.Yb55hdkAEu57.m3u8
+#EXTINF:0,La Liga 2
+#EXTGRP:unsorted
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SvCzJWcXOGJv.m3u8
