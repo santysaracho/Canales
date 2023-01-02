@@ -53,3 +53,6 @@ https://fb8g4873ww59n3t2.cdnexpress23.net:8443/hls/t7w70x7v57.m3u8?s=iWSsMh3QbeX
 #EXTINF:0, La Tele
 #EXTGRP:unsorted
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=dfc28474e79556875f2052c2237446dfba0e2f33b4ab326e9971424b4d164c7f&exp=1672579761
+#EXTINF:0, CUATRO
+#EXTGRP: España Tv
+https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main.m3u8?hdnts=st=1672614327~exp=1672614507~acl=/*~hmac=e82cfd6b90670149ff0cb70dd8e3c8dd25c97cd7d79ac72b9fbb719abba87955
