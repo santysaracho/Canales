@@ -3,16 +3,16 @@
 #EXTGRP:unsorted
 https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37b9289faa782-c489522f5378f3e6196cae86e9786755-1671971358-1671967758&amp;remote=5.225.130.223
 #EXTINF:0,Trece
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0,TELEFUTURO
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=5546990faf0d2fb52beda7d37a4421fb14631003460bb3576ad418d59d3c2d93&exp=1672533392
 #EXTINF:0,ABC
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:0,Trece
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0,SBT
 #EXTGRP:unsorted
@@ -27,16 +27,16 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTGRP:unsorted
 https://live.embedflix.net/p2p/cnnbr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAxMTowNDo0NiBQTSZoYXNoX3ZhbHVlPUFyYkpkRGhseXhYTGxCRS81QkVjZUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:0,UNICANAL
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
 #EXTINF:0,Ñandutí Tv
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:0,C9N
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 #EXTINF:0,SNT
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:0,ESPN BRASIL
 #EXTGRP:unsorted
@@ -51,7 +51,7 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 #EXTGRP:unsorted
 https://fb8g4873ww59n3t2.cdnexpress23.net:8443/hls/t7w70x7v57.m3u8?s=iWSsMh3QbeX1D_s_Qg1gvw&e=1672526509
 #EXTINF:0, La Tele
-#EXTGRP:unsorted
+#EXTGRP:Paraguay Tv
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=dfc28474e79556875f2052c2237446dfba0e2f33b4ab326e9971424b4d164c7f&exp=1672579761
 #EXTINF:0, CUATRO
 #EXTGRP: España Tv
