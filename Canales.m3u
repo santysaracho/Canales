@@ -2,17 +2,17 @@
 #EXTINF:0,Globo
 #EXTGRP:unsorted
 https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37b9289faa782-c489522f5378f3e6196cae86e9786755-1671971358-1671967758&amp;remote=5.225.130.223
-#EXTINF:0,Trece
+#EXTINF:0, Trece
 #EXTGRP: Paraguay Tv
 https://streaming.trece.com.py/live/trece.m3u8
-#EXTINF:0,TELEFUTURO
-#EXTGRP:Paraguay Tv
+#EXTINF:0, TELEFUTURO
+#EXTGRP: Paraguay Tv
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=5546990faf0d2fb52beda7d37a4421fb14631003460bb3576ad418d59d3c2d93&exp=1672533392
 #EXTINF:0,ABC
-#EXTGRP:Paraguay Tv
+#EXTGRP: Paraguay Tv
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:0,Trece
-#EXTGRP:Paraguay Tv
+#EXTINF:0, Trece
+#EXTGRP: Paraguay Tv
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0,SBT
 #EXTGRP:unsorted
