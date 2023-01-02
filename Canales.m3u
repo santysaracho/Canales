@@ -2,8 +2,8 @@
 #EXTINF:0,Globo
 #EXTGRP:unsorted
 https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37b9289faa782-c489522f5378f3e6196cae86e9786755-1671971358-1671967758&amp;remote=5.225.130.223
-#EXTINF:0, Trece
-#EXTGRP: Paraguay Tv
+#EXTINF:0,Trece
+#EXTGRP:Paraguay Tv
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0, TELEFUTURO
 #EXTGRP: Paraguay Tv
@@ -51,15 +51,14 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 #EXTGRP:unsorted
 https://fb8g4873ww59n3t2.cdnexpress23.net:8443/hls/t7w70x7v57.m3u8?s=iWSsMh3QbeX1D_s_Qg1gvw&e=1672526509
 #EXTINF:0, La Tele
-#EXTGRP: Paraguay Tv
+#EXTGRP:Paraguay Tv
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=dfc28474e79556875f2052c2237446dfba0e2f33b4ab326e9971424b4d164c7f&exp=1672579761
-#EXTINF:0, CUATRO
-#EXTGRP: España Tv
+#EXTINF:0,CUATRO
+#EXTGRP:España Tv
 https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main.m3u8?hdnts=st=1672614327~exp=1672614507~acl=/*~hmac=e82cfd6b90670149ff0cb70dd8e3c8dd25c97cd7d79ac72b9fbb719abba87955
-#EXTINF:0, Telecinco
-#EXTGRP: España Tv
+#EXTINF:0,Telecinco
+#EXTGRP:España Tv
 https://directos.telecinco.es/orilinear01/live/linear01/main/main.isml/main.m3u8?hdnts=st=1672661283~exp=1672661463~acl=/*~hmac=05f8bd2f02a5de76a7fc0ab1bbdfe16df7c5bfb4afb7dd4a2ababf31a508eef1
-#EXTINF:0, LA SEXTA
-#EXTGRP: España Tv
+#EXTINF:0,LA SEXTA
+#EXTGRP:España Tv
 https://atres-live.atresmedia.com/b13b75afc1c2d8c811d63144a2eb69d3a3fe0e48_ES_1672664751_1672693491/h264/live/lasexta/master.m3u8
-
