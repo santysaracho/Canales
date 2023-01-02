@@ -1,64 +1,61 @@
 #EXTM3U
-#EXTINF:0,Globo
-#EXTGRP:unsorted
+#EXTINF:0,GLOBO
+#EXTGRP:BRASIL
 https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37b9289faa782-c489522f5378f3e6196cae86e9786755-1671971358-1671967758&amp;remote=5.225.130.223
 #EXTINF:0,Trece
-#EXTGRP:Paraguay Tv
+#EXTGRP:PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0, TELEFUTURO
-#EXTGRP: Paraguay Tv
+#EXTGRP:PARAGUAY
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=8bdb078ae0174d35fcf4c3d4062f056e9deb5724d435807ad45b86ffa2284718&exp=1672677078
 #EXTINF:0,ABC
-#EXTGRP: Paraguay Tv
+#EXTGRP:PARAGUAY
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:0, Trece
-#EXTGRP: Paraguay Tv
+#EXTINF:0,Trece
+#EXTGRP:PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:0,SBT
-#EXTGRP:unsorted
+#EXTGRP:BRASIL
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0,BAND
-#EXTGRP:unsorted
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:0,BAND
-#EXTGRP:unsorted
+#EXTGRP:BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:0,CNN BRASIL
-#EXTGRP:unsorted
+#EXTGRP:BRASIL
 https://live.embedflix.net/p2p/cnnbr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAxMTowNDo0NiBQTSZoYXNoX3ZhbHVlPUFyYkpkRGhseXhYTGxCRS81QkVjZUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:0,UNICANAL
-#EXTGRP:Paraguay Tv
+#EXTGRP:PARAGUAY
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
-#EXTINF:0,Ñandutí Tv
-#EXTGRP:Paraguay Tv
+#EXTINF:0,ÑANDUTI
+#EXTGRP:PARAGUAY
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:0,C9N
-#EXTGRP:Paraguay Tv
+#EXTGRP:PARAGUAY
 https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 #EXTINF:0,SNT
-#EXTGRP:Paraguay Tv
+#EXTGRP:PARAGUAY
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:0,ESPN BRASIL
-#EXTGRP:unsorted
+#EXTGRP:BRASIL
 https://server100.online/star-plus/video.m3u8?token=cd858e0b63a8e574a90549315b604b6e25da3e57-b6256b7e8a2dd5ec82b10206953e1c49-1672495356-1672491756&remote=5.225.130.223
 #EXTINF:0,La Liga
-#EXTGRP:unsorted
+#EXTGRP:DEPORTES
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.Yb55hdkAEu57.m3u8
 #EXTINF:0,La Liga 2
-#EXTGRP:unsorted
+#EXTGRP:DEPORTES
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SvCzJWcXOGJv.m3u8
-#EXTINF:0,Bein Ñ
-#EXTGRP:unsorted
+#EXTINF:0,BEIN Ñ
+#EXTGRP:DEPORTES
 https://fb8g4873ww59n3t2.cdnexpress23.net:8443/hls/t7w70x7v57.m3u8?s=iWSsMh3QbeX1D_s_Qg1gvw&e=1672526509
-#EXTINF:0, La Tele
-#EXTGRP:Paraguay Tv
+#EXTINF:0, LA TELE
+#EXTGRP:PARAGUAY
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=dfc28474e79556875f2052c2237446dfba0e2f33b4ab326e9971424b4d164c7f&exp=1672579761
 #EXTINF:0,CUATRO
-#EXTGRP:España Tv
+#EXTGRP:ESPAÑA
 https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main.m3u8?hdnts=st=1672614327~exp=1672614507~acl=/*~hmac=e82cfd6b90670149ff0cb70dd8e3c8dd25c97cd7d79ac72b9fbb719abba87955
-#EXTINF:0,Telecinco
-#EXTGRP:España Tv
+#EXTINF:0,TELECINCO
+#EXTGRP:ESPAÑA
 https://directos.telecinco.es/orilinear01/live/linear01/main/main.isml/main.m3u8?hdnts=st=1672661283~exp=1672661463~acl=/*~hmac=05f8bd2f02a5de76a7fc0ab1bbdfe16df7c5bfb4afb7dd4a2ababf31a508eef1
 #EXTINF:0,LA SEXTA
-#EXTGRP:España Tv
+#EXTGRP:ESPAÑA
 https://atres-live.atresmedia.com/b13b75afc1c2d8c811d63144a2eb69d3a3fe0e48_ES_1672664751_1672693491/h264/live/lasexta/master.m3u8
