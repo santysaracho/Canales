@@ -51,7 +51,7 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 #EXTGRP:unsorted
 https://fb8g4873ww59n3t2.cdnexpress23.net:8443/hls/t7w70x7v57.m3u8?s=iWSsMh3QbeX1D_s_Qg1gvw&e=1672526509
 #EXTINF:0, La Tele
-#EXTGRP:Paraguay Tv
+#EXTGRP: Paraguay Tv
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=dfc28474e79556875f2052c2237446dfba0e2f33b4ab326e9971424b4d164c7f&exp=1672579761
 #EXTINF:0, CUATRO
 #EXTGRP: España Tv
