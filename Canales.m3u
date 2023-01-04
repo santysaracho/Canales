@@ -40,7 +40,7 @@ https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0,ESPN BRASIL
 #EXTGRP:DEPORTES
-https://br.embedflix.net/p2p/star1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjMgODoyNTozMCBQTSZoYXNoX3ZhbHVlPU5iVWJWaHRWWHBtcHhVZmFrQTZPTHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+https://br.embedflix.net:443/p2p/star1/chunks.m3u8?nimblesessionid=76432&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjMgMTA6MDU6NDYgUE0maGFzaF92YWx1ZT1EdHNmVUxvWGRENUpxNkFBdnZRVXhBPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:0,La Liga 2
 #EXTGRP:DEPORTES
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SvCzJWcXOGJv.m3u8
