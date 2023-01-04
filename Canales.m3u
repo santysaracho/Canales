@@ -77,7 +77,7 @@ http://45.179.164.59:8181/Peliculas/Luca.2021.DSNP.1080p.Lat.WWW.pelisenhd.NET.m
 #EXTINF:0,Jolt.2021
 #EXTGRP:PELICULAS
 http://45.179.164.59:8181/Peliculas/Jolt.2021.mkv
-#EXTINF:0,Spiderman - No Way Home
+#EXTINF:0,Spiderman - No Way Home 2021
 #EXTGRP:PELICULAS
 http://45.179.164.59:8181/Peliculas/Spiderman%20No%20Way%20Home.mkv
 #EXTINF:0,TITANIC.1080p
@@ -107,3 +107,24 @@ https://archive.org/download/5113040-c-940688/%5B5113040C%5D%5B940688%5D.MP4
 #EXTINF:0,AVATAR EL CAMINO DEL AGUA
 #EXTGRP:PELICULAS
 http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
+#EXTINF:0, MASCOTAS 2
+#EXTGRP: PELICULAS
+http://54.39.52.63/ZEUS/Movies/Mayo/10%20de%20mayo/Mascotas%202%20(2019).mkv
+#EXTINF:0, BLACK ADAM 1080 2022
+#EXTGRP: PELICULAS
+http://144.217.180.205/Peliculas/Accion/Black.Adam.2022.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:0,BOHEMIAN RHAPSODY
+#EXTGRP: PELICULAS
+http://fina.dyndns.tv/Peliculas/Bohemian%20Rhapsody.mkv
+#EXTINF:0,EL REY LEON
+#EXTGRP: PELICULAS
+http://fina.dyndns.tv/Peliculas/Rey%20Leon%202019.mp4
+#EXTINF:0, Animals - Martin Garrix
+#EXTGRP: Videoclips
+http://104.251.123.41/Animals-Martin%20Garrix.mp4
+#EXTINF:0, Bohemian Rhapsody - Queen
+#EXTGRP: Videoclips
+http://104.251.123.41/Bohemian%20Rhapsody-Queen.mp4
+#EXTINF:0, Californication - Red Hot Chili Peppers
+#EXTGRP: Videoclips
+http://104.251.123.41/Californication-Red%20Hot%20Chili%20Peppers.mp4
