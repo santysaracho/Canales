@@ -37,7 +37,7 @@ https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:0,ESPN BRASIL
 #EXTGRP:BRASIL
-https://server100.online/star-plus/video.m3u8?token=cd858e0b63a8e574a90549315b604b6e25da3e57-b6256b7e8a2dd5ec82b10206953e1c49-1672495356-1672491756&remote=5.225.130.223
+https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0,La Liga
 #EXTGRP:DEPORTES
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.Yb55hdkAEu57.m3u8
