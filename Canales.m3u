@@ -116,6 +116,9 @@ http://144.217.180.205/Peliculas/Accion/Black.Adam.2022.1080p.WEBRip.Dual.Latino
 #EXTINF:0,BOHEMIAN RHAPSODY
 #EXTGRP:PELICULAS
 http://fina.dyndns.tv/Peliculas/Bohemian%20Rhapsody.mkv
+#EXTINF:0,SPIDER-MAN DE VUELTA A CASA 2017 1080 DUAL
+#EXTGRP:PELICULAS
+http://45.179.164.59:8181/Peliculas/Spider-man.homecoming.2017.1080p-dual-lat.mp4
 #EXTINF:0,EL REY LEON
 #EXTGRP:PELICULAS
 http://fina.dyndns.tv/Peliculas/Rey%20Leon%202019.mp4
