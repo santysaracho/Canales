@@ -2,6 +2,9 @@
 #EXTINF:0,GLOBO
 #EXTGRP:BRASIL
 https://server100.online/globo-sp/video.m3u8?token=1fff0665871acb8108570a94bcc37b9289faa782-c489522f5378f3e6196cae86e9786755-1671971358-1671967758&amp;remote=5.225.130.223
+#EXTINF:0,CNN EN ESPAÑOL
+#EXTGRP:PARAGUAY 
+http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/2585
 #EXTINF:0,Trece
 #EXTGRP:PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
