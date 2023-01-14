@@ -52,7 +52,7 @@ https://stream.dlivecdn.com/dlive/transcode-72-50/asqrk/1673200812/src/live.m3u8
 https://kepe.kepa.pw:30443/edge/html/chunks.m3u8?nimblesessionid=108046&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjMgODoxMjozNSBQTSZoYXNoX3ZhbHVlPXpvbkJWWHlHZTJiekZDWjB3bkY4S1E9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:0, LA TELE
 #EXTGRP:PARAGUAY
-https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=dfc28474e79556875f2052c2237446dfba0e2f33b4ab326e9971424b4d164c7f&exp=1672579761
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.desdepylabs.com/External/tvaccion/latele
 #EXTINF:0,CUATRO
 #EXTGRP:ESPAÑA
 https://directos.cuatro.com/orilinear09/live/linear09/main/main.isml/main.m3u8?hdnts=st=1672614327~exp=1672614507~acl=/*~hmac=e82cfd6b90670149ff0cb70dd8e3c8dd25c97cd7d79ac72b9fbb719abba87955
