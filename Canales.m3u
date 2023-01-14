@@ -122,6 +122,10 @@ http://fina.dyndns.tv/Peliculas/Bohemian%20Rhapsody.mkv
 #EXTINF:0,SPIDER-MAN DE VUELTA A CASA 2017 1080 DUAL
 #EXTGRP:PELICULAS
 http://45.179.164.59:8181/Peliculas/Spider-man.homecoming.2017.1080p-dual-lat.mp4
+
+
+
+
 #EXTINF:0,EL REY LEON
 #EXTGRP:PELICULAS
 http://fina.dyndns.tv/Peliculas/Rey%20Leon%202019.mp4
@@ -134,7 +138,12 @@ http://104.251.123.41/Bohemian%20Rhapsody-Queen.mp4
 #EXTINF:0, Californication - Red Hot Chili Peppers
 #EXTGRP:Videoclips
 http://104.251.123.41/Californication-Red%20Hot%20Chili%20Peppers.mp4
-
+#EXTINF:0,Monsters INC 2001
+#EXTGRP:PELICULAS
+http://fina.dyndns.tv/Peliculas/Monsters%20Inc.mkv
+#EXTINF:0,Monsters University 2013
+#EXTGRP:PELICULAS
+http://fina.dyndns.tv/Peliculas/Monsters%20University.mkv
 #EXTINF:0,El Gato Con Botas - El Último Deseo 2022 1080p dual lat
 http://54.39.52.63/ZEUS/Movies/ENERO/Gato.Con.Botas-.El.%c3%9altimo.Deseo.2022.1080p-dual-lat.mp4
 #PIC:https://www.covercaratulas.com/ode/mini_ficha/47917.jpg
