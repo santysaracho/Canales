@@ -55,7 +55,7 @@ https://kepe.kepa.pw:30443/edge/html/chunks.m3u8?nimblesessionid=108046&wmsAuthS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.desdepylabs.com/External/tvaccion/latele
 #EXTINF:0,TELEFUTURO ACTUALIZABLE
 #EXTGRP:PARAGUAY
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=1b818e3cbefc7de300729a425246d2e19f5adbf2d9b18c28f70f7c9ebce7623b&exp=1674394609
+https:/https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=c8bb3aeecfeb3dfb163fe4480bd3a7ad7fcc25bc426fffce19d319e4bc9feb6a&exp=1674897749
 #EXTINF:0,TELECINCO
 #EXTGRP:ESPAÑA
 https://directos.telecinco.es/orilinear01/live/linear01/main/main.isml/main.m3u8?hdnts=st=1672661283~exp=1672661463~acl=/*~hmac=05f8bd2f02a5de76a7fc0ab1bbdfe16df7c5bfb4afb7dd4a2ababf31a508eef1
