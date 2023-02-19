@@ -55,7 +55,7 @@ https://stream.dlivecdn.com/dlive/transcode-72-50/asqrk/1673200812/src/live.m3u8
 https://kepe.kepa.pw:30443/edge/html/chunks.m3u8?nimblesessionid=108046&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjMgODoxMjozNSBQTSZoYXNoX3ZhbHVlPXpvbkJWWHlHZTJiekZDWjB3bkY4S1E9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:0, LA TELE
 #EXTGRP:PARAGUAY
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.desdepylabs.com/External/tvaccion/latele
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=3290e11dd4aaf1ec1b20d7099d193eaa66f65736059a8c5b38e66c379602196a&exp=1676805263
 #EXTINF:0,TELEFUTURO ACTUALIZABLE
 #EXTGRP:PARAGUAY
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=9383c206c0625ed880f8166d5c9852289a7f4406de95bff0919958765cae561b&exp=1676805020
