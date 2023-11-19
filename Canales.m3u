@@ -58,7 +58,7 @@ https://kepe.kepa.pw:30443/edge/html/chunks.m3u8?nimblesessionid=108046&wmsAuthS
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=3290e11dd4aaf1ec1b20d7099d193eaa66f65736059a8c5b38e66c379602196a&exp=1676805263
 #EXTINF:0,TELEFUTURO ACTUALIZABLE
 #EXTGRP:PARAGUAY
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=1cdbbdaa17d9f7f3784370c56cb51417347ad68a97f3c782c029b7449fa78469&exp=1700212913
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=0c71ed6685900357c8471ff27a28f362b73a37bb76cd27fe94276480d248bd55&exp=1700384740
 #EXTINF:0,TELECINCO
 #EXTGRP:ESPAÑA
 https://directos.telecinco.es/orilinear01/live/linear01/main/main.isml/main.m3u8?hdnts=st=1672661283~exp=1672661463~acl=/*~hmac=05f8bd2f02a5de76a7fc0ab1bbdfe16df7c5bfb4afb7dd4a2ababf31a508eef1
