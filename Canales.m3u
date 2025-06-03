@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,106.1 FM
-https://tigocloud.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8?k=fcc7deec4077e48725054700e56986abe4ff4f990af49cf291a98a655aa5d9dc&exp=1748855509
+https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8
 #EXTINF:-1,La Popu 103.1
 https://cast1.asurahosting.com/proxy/popularnew/stream
 #EXTINF:-1,Farra 101.3
