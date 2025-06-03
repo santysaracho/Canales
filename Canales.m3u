@@ -4,7 +4,7 @@ https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8
 #EXTINF:-1,La Popu 103.1
 https://cast1.asurahosting.com/proxy/popularnew/stream
 #EXTINF:-1,Farra 101.3
-https://tigocloud.desdeparaguay.net/movfarra/movfarra.stream/playlist.m3u8?k=e167ccc8818e81d964059d0c8b7845f27ec41f7c492eb30581f2a984480ca2ac&exp=1748855346
+https://rfs1.farra.com.py:9433/stream
 #EXTINF:-1,EsPyFm 87.9
 https://nodo102.liveradio.com.es:8028/stream
 #EXTINF:-1,Los 40
