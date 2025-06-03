@@ -11,5 +11,7 @@ https://nodo102.liveradio.com.es:8028/stream
 http://21223.live.streamtheworld.com/LOS40.mp3
 #EXTINF:-1,Cadena Dial
 http://21223.live.streamtheworld.com/CADENADIAL.mp3
-#EXTINF:-1,FM Del Este 94,3
+#EXTINF:-1,FM Del Este 94.3
 https://proxy01.servidorenlinea.net/cdehosting/8040/;
+#EXTINF:-1,Radio Universo 92.5
+https://proxy01.servidorenlinea.net/cdehosting/8042/;
