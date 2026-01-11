@@ -4,7 +4,7 @@ https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8
 #EXTINF:-1,La Popu 103.1
 https://cast1.asurahosting.com/proxy/popularnew/stream
 #EXTINF:-1,Farra 101.3
-https://rfs1.farra.com.py:9433/stream
+https://www.desde-paraguay.com/movfarra/movfarra.stream/playlist.m3u8?k=d2438292e734fbe6dd7144be14f12a66b4799b312e2e0b695ec34e3db20545f4&exp=1768133563
 #EXTINF:-1,EsPyFm 87.9
 https://nodo102.liveradio.com.es:8028/stream
 #EXTINF:-1,FM Del Este 94.3
@@ -13,4 +13,5 @@ https://proxy01.servidorenlinea.net/cdehosting/8040/;
 https://proxy01.servidorenlinea.net/cdehosting/8042/;
 #EXTINF:-1,Fer Otazu Radio 
 https://stream.zeno.fm/ne8ct2wqibjuv
+
 
