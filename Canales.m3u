@@ -1,4 +1,6 @@
 #EXTM3U
+
+# --- DEPORTES (VÍDEO) ---
 #EXTINF:-1,Tigo Sport
 Https://vg7ie.envivoslatam.org/hotflix/fanatiz1/index.m3u8?token=b672bc3525bb7964e87050a8eb83a35a03067dbb-c9-1774852885-1774798885&ip=2.155.63.149
 
@@ -34,5 +36,7 @@ https://proxy01.servidorenlinea.net/cdehosting/8042/;
 #EXTINF:-1,Fer Otazu Radio 
 https://stream.zeno.fm/ne8ct2wqibjuv
 
+#EXTINF:-1,RADIO PALMA 106.5
+https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
 #EXTINF:-1,RADIO PALMA 106.5
 https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
