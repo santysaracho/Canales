@@ -1,19 +1,5 @@
 #EXTM3U
 
-# --- DEPORTES (VÍDEO) ---
-#EXTINF:-1,Tigo Sport
-Https://vg7ie.envivoslatam.org/hotflix/fanatiz1/index.m3u8?token=b672bc3525bb7964e87050a8eb83a35a03067dbb-c9-1774852885-1774798885&ip=2.155.63.149
-
-#EXTINF:-1,DirecTV Sports
-https://j8nte.envivoslatam.org/hotflix/dsports/index.m3u8?token=16868fc5560210268e5b05adeeb988870bfb5300-da-1774854130-1774800130&ip=2.155.63.149
-
-#EXTINF:-1,TyC Sports
-Https://j8nte.envivoslatam.org/hotflix/tycsports/index.m3u8?token=e86ff2d59bbbad169a58694f5998b5d34f72c1f6-07-1774855372-1774801372&ip=2.155.63.149
-
-# --- NOTICIAS ---
-#EXTINF:-1,Telemundo
-Https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/1752763134308item-08item_Segment-5647166.mp4
-
 # --- RADIOS ---
 #EXTINF:-1,106.1 FM
 https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8
@@ -36,7 +22,5 @@ https://proxy01.servidorenlinea.net/cdehosting/8042/;
 #EXTINF:-1,Fer Otazu Radio 
 https://stream.zeno.fm/ne8ct2wqibjuv
 
-#EXTINF:-1,RADIO PALMA 106.5
-https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
 #EXTINF:-1,RADIO PALMA 106.5
 https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
